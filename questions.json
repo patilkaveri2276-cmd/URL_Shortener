@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["A. Mumbai", "B. Delhi", "C. Pune", "D. Chennai"],
+    "answer": "B"
+  },
+  {
+    "question": "Which language is used in Python?",
+    "options": ["A. English", "B. Machine", "C. Programming", "D. Markup"],
+    "answer": "C"
+  },
+  {
+    "question": "2 + 2 = ?",
+    "options": ["A. 3", "B. 4", "C. 5", "D. 6"],
+    "answer": "B"
+  }
+]
